@@ -20,7 +20,9 @@ body{
 }
     
 .conatiner{
-    
+    background-color: rgb(49, 48, 48);
+    border: 3px solid black;
+    border-radius: 20px;
     display: inline-block;
     text-align: center;
     padding: 10px;
@@ -35,6 +37,6 @@ h2{
 }
 .main{
     
-    color: rgb(177, 3, 18);
+    color: white;
     text-align: center; /* Center the child elements horizontally */
 }
